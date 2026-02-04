@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Bienvenidos a la pagina web</h1>
-    <a href="productos.php">modulo de producto</a>
-    <a href="acerca.php">acerca de</a>
+    <a href="productos.php">Modulo de producto</a>
+    <a href="acerca.php">Acerca de</a>
 </body>
 </html>
